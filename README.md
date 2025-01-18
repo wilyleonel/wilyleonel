@@ -15,12 +15,17 @@ Profesional con una sólida formación en programación, apasionado por la tecno
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-181717?logo=zustand&logoColor=white)
+
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![GORM](https://img.shields.io/badge/-GORM-3776AB?logo=go&logoColor=white)
+
 
 ### **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -49,4 +54,3 @@ Profesional con una sólida formación en programación, apasionado por la tecno
 ## 📫 Contacto
 - **Celular**: (+51) 917901822  
 - **E-mail**: wily12hancco@gmail.com  
-- **GitHub**: [wilyleonel](https://github.com/wilyleonel)
