@@ -1,7 +1,7 @@
 
 ## Sobre mi
 Profesional apasionado por la tecnología y motivado por la excelencia.
-**"si lo puedes imaginar, lo puedes lograr"**, y cada línea de código es un paso hacia convertir ideas en realidad.**
+**"si lo puedes imaginar, lo puedes lograr"**, cada línea de código es un paso hacia convertir ideas en realidad.**
 
 ## 🛠️ Habilidades Técnicas
 
