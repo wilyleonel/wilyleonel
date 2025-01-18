@@ -1,48 +1,5 @@
-# Hi there 👋
-
-## 👨‍💻 About Me
+## Sobre mi
 Profesional con una sólida formación en programación, apasionado por la tecnología y motivado por la excelencia. Tengo experiencia en el desarrollo de soluciones robustas tanto en **back-end** como en **front-end**, y habilidades excepcionales en resolución de problemas, trabajo en equipo y colaboración eficaz.
-
----
-
-## 🌱 Educación
-- **Ingeniería de Software con Inteligencia Artificial** | *SENATI* (2020-2022)
-- **Autodidacta** | *(2022-Actualidad)*
-
----
-
-## 💼 Experiencia
-
-### **[TU DOCTOR NET](https://github.com/wilyleonel)**
-**(Nov. 2022 - May. 2023)**  
-Sistema de gestión hospitalaria diseñado para optimizar procesos y brindar una experiencia amigable al usuario.
-
-- **Frontend**: Desarrollado con **React**, **Remix**, y **Tailwind CSS** para una experiencia fluida, responsiva e intuitiva.
-- **Backend**: Implementado con **Node.js**, **Express**, **TypeScript**, y **Prisma.io**. Base de datos gestionada con **PostgreSQL**.
-- **Características**: Sistema seguro con autenticación **JWT**, pruebas realizadas con **Postman**, y administración eficiente con **DBeaver**.
-
----
-
-### **[AULA VIRTUAL](https://classroom.verycerts.com/)**
-**(Jul. 2023 - Actualidad)**  
-Plataforma de gestión educativa para estudiantes y cursos en línea.
-
-- **Frontend**: Creado con **Next.js**, **Tailwind CSS**, y **Zustand** para la gestión de estados.
-- **Backend**: Construido con **Node.js**, **Express**, y **TypeScript**. Seguridad garantizada con **JWT**, base de datos en **PostgreSQL**.
-
----
-
-## 🌟 Proyectos Destacados
-
-### **API en Golang para Consulta de Datos de DNI**
-Desarrollo de una API en **Golang** para consultar información de DNI conectándose a una API externa.
-- **Backend**: Utilización de **GORM** para la gestión de datos en **PostgreSQL**.
-
-### **Blog de Gestión de Posts**
-Sistema para la gestión de publicaciones, perfiles y comentarios.
-- **Backend**: Implementado en **Node.js** y **Express**, con seguridad basada en **JWT**.
-
----
 
 ## 🛠️ Habilidades Técnicas
 
