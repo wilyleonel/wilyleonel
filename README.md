@@ -1,14 +1,14 @@
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=wilyleonel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyleonel&layout=compact&theme=radical)
+
 ## Sobre mi
 Profesional con una sólida formación en programación, apasionado por la tecnología y motivado por la excelencia. Tengo experiencia en el desarrollo de soluciones robustas tanto en **back-end** como en **front-end**, y habilidades excepcionales en resolución de problemas, trabajo en equipo y colaboración eficaz.
 
 ## 🛠️ Habilidades Técnicas
 
 ### **Lenguajes**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyleonel&layout=compact&theme=radical) |
+|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
