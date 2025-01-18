@@ -1,6 +1,7 @@
 
 ## Sobre mi
-Profesional con una sólida formación en programación, apasionado por la tecnología y motivado por la excelencia. Tengo experiencia en el desarrollo de soluciones robustas tanto en **back-end** como en **front-end**, y habilidades excepcionales en resolución de problemas, trabajo en equipo y colaboración eficaz.
+Profesional apasionado por la tecnología y motivado por la excelencia.
+**"si lo puedes imaginar, lo puedes lograr"**, y cada línea de código es un paso hacia convertir ideas en realidad.**
 
 ## 🛠️ Habilidades Técnicas
 
