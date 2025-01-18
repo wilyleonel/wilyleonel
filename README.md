@@ -1,4 +1,3 @@
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=wilyleonel&show_icons=true&theme=radical)
 
 ## Sobre mi
 Profesional con una sólida formación en programación, apasionado por la tecnología y motivado por la excelencia. Tengo experiencia en el desarrollo de soluciones robustas tanto en **back-end** como en **front-end**, y habilidades excepcionales en resolución de problemas, trabajo en equipo y colaboración eficaz.
