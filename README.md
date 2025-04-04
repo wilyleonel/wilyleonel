@@ -28,6 +28,9 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ![GORM](https://img.shields.io/badge/-GORM-3776AB?logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 
+### **Cloud & Storage**
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazon-s3&logoColor=white)
+![DigitalOcean Spaces](https://img.shields.io/badge/-DigitalOcean%20Spaces-0080FF?logo=digitalocean&logoColor=white)
 
 ### **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
