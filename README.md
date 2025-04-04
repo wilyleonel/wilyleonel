@@ -28,6 +28,8 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ![GORM](https://img.shields.io/badge/-GORM-3776AB?logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-FF6C37?logo=json-web-tokens&logoColor=white)
 
 ### **Cloud & Storage**
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazon-s3&logoColor=white)
