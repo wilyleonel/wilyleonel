@@ -26,6 +26,7 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![GORM](https://img.shields.io/badge/-GORM-3776AB?logo=go&logoColor=white)
+![NESTJS](https://img.shields.io/badge/-GORM-3776AB?logo=go&logoColor=white)
 
 
 ### **Herramientas**
