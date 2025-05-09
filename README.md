@@ -1,6 +1,5 @@
-
 ## Sobre mi
-Profesional apasionado por la tecnología y motivado por la excelencia.
+Profesional apasionado por la tecnología y motivado por la excelencia.  
 **"si lo puedes imaginar, lo puedes lograr"**, cada línea de código es un paso hacia convertir ideas en realidad.**
 
 ## 🛠️ Habilidades Técnicas
@@ -18,7 +17,6 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-181717?logo=zustand&logoColor=white)
-
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -41,30 +39,20 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logoColor=white)
 
-
-
 ### 📱 Mobile  
-| React Native | TypeScript | Expo | Redux | Firebase |
-|-------------|------------|------|-------|----------|
-| <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width=40> | <img src="https://cdn.iconscout.com/icon/free/png-256/expo-3628621-3030240.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width=40> |
+| React Native | TypeScript | Expo | Redux |
+|-------------|------------|------|-------|
+| <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width=40> | <img src="https://cdn.iconscout.com/icon/free/png-256/expo-3628621-3030240.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width=40> |
 
-### 🌐 Frontend  
-```jsx
-<View style={styles.frontend}>
-  <Icon name="html5" color="#E34F26" />
-  <Icon name="css3" color="#1572B6" />
-  <Icon name="react" color="#61DAFB" />
-  <Icon name="tailwind" color="#38B2AC" />
-</View>
 ---
 
 ## 🧠 Competencias
-- Trabajo en Equipo 🤝
-- Resiliencia 💪
-- Comunicación Efectiva 🗣️
-- Creatividad 🎨
-- Adaptación 🚀
-- Proactividad 💼
+- Trabajo en Equipo 🤝  
+- Resiliencia 💪  
+- Comunicación Efectiva 🗣️  
+- Creatividad 🎨  
+- Adaptación 🚀  
+- Proactividad 💼  
 
 ---
 
