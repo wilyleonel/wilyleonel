@@ -61,10 +61,7 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 - **Portugués** (Intermedio)
 
 ---
-## 📄 Descargar CV
-
-[![Descargar CV](https://img.shields.io/badge/⬇️_Descargar_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/wilyleonel/wilyleonel/raw/main/WILY%20LEODAN%20HANCCO%20MAMANICV11_05_2025.pdf)
-
 ## 📫 Contacto
 - **Celular**: (+51) 917901822  
 - **E-mail**: wily12hancco@gmail.com  
+[![Descargar CV](https://img.shields.io/badge/⬇️_Descargar_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/wilyleonel/wilyleonel/raw/main/WILY%20LEODAN%20HANCCO%20MAMANICV11_05_2025.pdf)
