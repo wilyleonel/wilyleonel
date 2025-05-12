@@ -63,11 +63,14 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ---
 ## 📫 Contacto
 
-<div>
-  
-| **Información de Contacto** | **Acciones** |
-|-----------------------------|--------------|
-| 📞 **Celular**: (+51) 917901822  | [![Descargar CV](https://img.shields.io/badge/📄_Descargar_CV-0066CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/wilyleonel/wilyleonel/raw/main/WILY%20LEODAN%20HANCCO%20MAMANICV11_05_2025.pdf) |
-| ✉️ **E-mail**: wily12hancco@gmail.com | [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil) |
+## 📫 Contacto 
 
+<div style="display: flex; justify-content: space-between; align-items: center">
+  <div>
+    📞 (+51) 917901822<br>
+    ✉️ wily12hancco@gmail.com
+  </div>
+  <div>
+    [![Descargar CV](https://img.shields.io/badge/📋_CV_Profesional-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/wilyleonel/wilyleonel/raw/main/WILY%20LEODAN%20HANCCO%20MAMANICV11_05_2025.pdf)
+  </div>
 </div>
