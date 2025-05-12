@@ -63,7 +63,7 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 ---
 ## 📫 Contacto
 
-<div align="center">
+<div>
   
 | **Información de Contacto** | **Acciones** |
 |-----------------------------|--------------|
