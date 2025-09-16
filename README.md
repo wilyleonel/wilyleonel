@@ -4,6 +4,7 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 
 ## 🛠️ Habilidades Técnicas
 ![Contador de visitas](https://komarev.com/ghpvc/?username=wilyleonel&label=👀%20Visitas%20al%20perfil&color=blue&style=for-the-badge)
+![snake gif](https://github.com/wilyleonel/wilyleonel/blob/output/github-contribution-grid-snake.svg)
 
 ### **Lenguajes**
 
