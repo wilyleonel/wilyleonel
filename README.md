@@ -3,6 +3,7 @@ Profesional apasionado por la tecnología y motivado por la excelencia.
 **"si lo puedes imaginar, lo puedes lograr"**, cada línea de código es un paso hacia convertir ideas en realidad.**
 
 ## 🛠️ Habilidades Técnicas
+![Contador de visitas](https://komarev.com/ghpvc/?username=wilyleonel&label=👀%20Visitas%20al%20perfil&color=blue&style=for-the-badge)
 
 ### **Lenguajes**
 
