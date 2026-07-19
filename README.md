@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=220&section=header&text=Hola!%20Soy%20Wily%20Leonel&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Go%20%7C%20React%20%7C%20Node.js&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Microservicios;Go+%7C+React+%7C+Node.js;Siempre+aprendiendo+algo+nuevo)
+
+</div>
+
 ## Sobre mi
 Full Stack Developer con más de 2 años de experiencia diseñando arquitecturas backend escalables bajo microservicios, patrón BFF y sistemas Event-Driven con Apache Kafka y RabbitMQ.  
 **"Si lo puedes imaginar, lo puedes lograr", cada línea de código es un paso hacia convertir ideas en realidad.**
@@ -11,7 +17,7 @@ Full Stack Developer con más de 2 años de experiencia diseñando arquitecturas
 
 ![Contador de visitas](https://komarev.com/ghpvc/?username=wilyleonel&label=👀%20Visitas%20al%20perfil&color=blue&style=for-the-badge)
 
-![snake gif](https://github.com/wilyleonel/wilyleonel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/wilyleonel/wilyleonel/output/github-contribution-grid-snake.svg)
 
 ### **Lenguajes**
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyleonel&layout=compact&theme=radical) |
@@ -62,6 +68,23 @@ Full Stack Developer con más de 2 años de experiencia diseñando arquitecturas
 | React Native | TypeScript | Expo | Kotlin |
 |-------------|------------|------|-------|
 | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width=40> | <img src="https://cdn.iconscout.com/icon/free/png-256/expo-3628621-3030240.png" width=40> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=40> |
+
+---
+
+## 📈 Actividad y Estadísticas
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=wilyleonel&theme=react-dark&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilyleonel&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilyleonel&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=wilyleonel&theme=radical&no-frame=true&row=1&column=6)
 
 ---
 
