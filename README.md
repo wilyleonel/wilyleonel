@@ -110,7 +110,7 @@ Full Stack Developer con más de 2 años de experiencia diseñando arquitecturas
 - **Email:** willyleodanhancco@gmail.com
 - **Portafolio:** [wilyleoneldev.vercel.app](https://wilyleoneldev.vercel.app/)
 
-[![Descargar CV](https://img.shields.io/badge/Descargar_CV-0066CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/wilyleonel/wilyleonel/raw/main/WILY%20LEODAN%20HANCCO%20MAMANI%20CV.pdf)
+[![Descargar CV](https://img.shields.io/badge/Descargar_CV-0066CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/wilyleonel/wilyleonel/raw/main/CV_Wily_Hancco2026-07-18.pdf)
 
 <!-- Banner Animado Inferior -->
 <div align="center">
